@@ -18,7 +18,7 @@ function App() {
       {/* UI Overlay Layer */}
       <OverlayUI setTheme={setCurrentTheme} />
       <div className="bg-black h-20 w-full">
-        <p>
+        <p className='text-white'>
           Wish you a happy new year in advance from
           <a
             className='text-white'
